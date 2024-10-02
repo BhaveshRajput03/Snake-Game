@@ -1,0 +1,25 @@
+# Snake Game
+
+This is a simple Snake Game built using Python's `turtle` library.
+
+## How to Run
+
+1. Install Python (if not installed) from [python.org](https://www.python.org/).
+2. Run the following command to execute the game:
+   ```bash
+   python snake_game.py
+   ```
+
+## Dependencies
+
+This project requires:
+- Python 3.x
+- Turtle graphics (pre-installed with Python)
+
+## Controls
+- `W`: Move Up
+- `S`: Move Down
+- `A`: Move Left
+- `D`: Move Right
+
+Enjoy playing the game!
